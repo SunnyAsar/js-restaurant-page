@@ -1,1 +1,2 @@
-alert('web here')
+import headline from './headline'
+headline()
