@@ -10,4 +10,26 @@ body{
   margin: auto;
   color: white;
 }
+
+.tabs-container{
+  display: flex;
+  width: 60%;
+  margin: auto;
+  justify-content: center;
+}
+.tab-button{
+  color: green;
+  height: 40px;
+  width: 80px;
+
+}
+
+.panel{
+  background: rgba(245, 245, 245, 0.5);
+  width: 70%;
+  margin: auto;
+  padding: 30px;
+  height: 30%;
+  text-align: center;
+}
  
